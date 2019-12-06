@@ -5,7 +5,7 @@ An autonoumous bot translator can be integrated with discord platform.
 python version: python3.x.
 
 Package: 
-pip install discord 
+pip install discord \n 
             speech_recognition
             googletrans
             pyttsx3
