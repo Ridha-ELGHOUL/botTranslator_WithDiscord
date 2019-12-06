@@ -2,7 +2,8 @@
 An autonoumous bot translator can be integrated with discord platform.
 ![Demo](https://github.com/Ridha-ELGHOUL/botTranslator_WithDiscord/blob/master/img/demo_bot.png)
 # Requirements
-python version: python3.x
+python version: python3.x.
+
 Package: 
 pip install discord 
             speech_recognition
