@@ -17,5 +17,5 @@ you need to create:
 to create your bot app, follow this link: https://discordapp.com/developers/applications
 ![Demo](https://github.com/Ridha-ELGHOUL/botTranslator_WithDiscord/blob/master/img/create_app.png)
 - A bot user that you’ll use to interact with other users and events in your guild
-![Demo](https://github.com/Ridha-ELGHOUL/botTranslator_WithDiscord/blob/master/img/bot_app.png)
+![Demo](https://github.com/Ridha-ELGHOUL/botTranslator_WithDiscord/blob/master/img/bot_app.PNG)
 - A guild in which your user account and your bot user will be active
